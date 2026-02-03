@@ -1,0 +1,5 @@
+{
+  "name": "Copy of P&ID Master UAE - Pro Edition v2",
+  "description": "Enterprise-grade P&ID analyzer using Gemini 1.5 Pro. Features include exhaustive component detection, UAE compliance checking, Postgres integration, Dark/Light theme support, and enhanced pagination controls.",
+  "requestFramePermissions": []
+}
